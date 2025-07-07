@@ -51,39 +51,6 @@ Tablet (768px - 1200px)
 
 Desktop (acima de 1200px)
 
-Estrutura de Arquivos
-text
-meteora/
-├── assets/
-│   ├── Desktop/
-│   │   ├── banner1-desktop.png
-│   │   ├── banner2-desktop.png
-│   │   ├── banner3-desktop.png
-│   │   ├── categorias/
-│   │   │   ├── categoria-bolsa.png
-│   │   │   ├── categoria-calcados.png
-│   │   │   ├── ...
-│   │   └── produtos/
-│   │       ├── bolsa.png
-│   │       ├── calca.png
-│   │       ├── ...
-│   ├── Mobile/
-│   │   ├── banner1-mobile.png
-│   │   ├── banner2-mobile.png
-│   │   ├── banner3-mobile.png
-│   │   ├── categorias/
-│   │   └── produtos/
-│   ├── Tablet/
-│   │   ├── banner1-tablet.png
-│   │   ├── banner2-tablet.png
-│   │   ├── banner3-tablet.png
-│   │   ├── categorias/
-│   │   └── produtos/
-│   ├── favicon.png
-│   └── logo-meteora.png
-├── estilos.css
-└── index.html
-
 Como Executar
 Clone o repositório ou faça o download dos arquivos
 
@@ -93,4 +60,4 @@ Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Contato
-Desenvolvido por Ágatha Selbach - 2025 
+Desenvolvido por Ágatha Selbach - 2025 - https://agas1.github.io/Meteora-Site/
